@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yeahwu/kinto)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/gze4e/kinto)
 
 > 提醒： 滥用可能导致账户被BAN！！！
 
@@ -12,7 +12,7 @@ Heroku上部署v2ray和tor，部署成功后，可用v2ray客户端直接访问t
 
 #### 客户端设置
 
-![443port](https://github.com/yeahwu/kinto/raw/master/img/kinto3.jpg)
+![443port](https://github.com/gze4e/kinto/raw/master/img/kinto3.jpg)
 
 上图是443端口设置方法，当然你也可以设置80端口，不要打开tls就可以了，如下：
 
@@ -56,7 +56,7 @@ Heroku上部署v2ray和tor，部署成功后，可用v2ray客户端直接访问t
             "port": 443,
             "users": [
               {
-                "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
+                "id": "1f6f05b7-16e6-4547-9b80-b049acbd8086"
               }
             ]
           }
