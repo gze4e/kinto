@@ -5,10 +5,11 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "1f6f05b7-16e6-4547-9b80-b049acbd8086"        
         }
     },
     "website": "https://starts.sh",
-    "repository": "https://github.com/yeahwu/v2-heroku",
+    "repository": "https://github.com/gze4e/v2-heroku",
     "stack": "container"
 }
+
