@@ -12,11 +12,11 @@
 
 2. Repository 填上git链接和默认分支master
 
-![repository](https://github.com/gze4e/kinto/img/kinto1.PNG)
+![repository](/img/kinto1.PNG)
 
 3. Build Settings 文件名填写Dockerfile，端口填上8888，填写如下：
 
-![build](https://github.com/gze4e/kinto/img/kinto.PNG)
+![build](/kinto/img/kinto.PNG)
 
 最后点击右上角 Deploy，部署完成，会生成一个链接，点击链接，如果显示Bad Request，即为成功。
 
@@ -24,7 +24,7 @@
 
 客户端配置看图吧，不多讲：
 
-![v2ray](https://github.com/gze4e/kinto/img/kinto3.jpg)
+![v2ray](gze4e/kinto/img/kinto3.jpg)
 
 默认UUID：1f6f05b7-16e6-4547-9b80-b049acbd8086
 
